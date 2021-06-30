@@ -6,7 +6,7 @@ namespace ConsoleAppPractice
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello!");
+            Console.WriteLine("test message");
         }
     }
 }
